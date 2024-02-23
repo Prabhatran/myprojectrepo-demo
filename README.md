@@ -1,3 +1,3 @@
 # myprojectrepo-demo
-This is myprojectrepo-demo on Git Repository
+This is myprojectrepo-demo on Git Repository.
 Author - Prabhat Ranjan
